@@ -1,0 +1,82 @@
+
+body {
+    background-color: rgb(255, 252, 240);
+}
+h1 {
+    text-align: center;
+    color: rgb(255, 166, 57);
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.note li {
+    list-style-type: square;
+}
+.a:hover{
+    font-size: 17px;
+    color: rgb(159, 2, 2);
+}
+#one {
+    background-color: yellow;
+    padding: 3px;
+    margin-bottom: 5px;
+    margin-right: 500px;
+    border-radius: 10px;
+    text-align: center;
+    width: 230px;
+}
+#two {
+    background-color: rgb(39, 97, 255);
+    padding: 3px;
+    margin-right: 500px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    text-align: center;
+    width: 230px;
+    
+}
+#thr {
+    background-color: rgb(139, 200, 47);
+    padding: 3px;
+    margin-right: 500px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    text-align: center;
+    width: 230px;
+}
+#for {
+    background-color: rgb(119, 239, 255);
+    padding: 3px;
+    margin-right: 500px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    text-align: center;
+    width: 230px;
+}
+#five {
+    background-color: rgb(233, 176, 192);
+    padding: 3px;
+    margin-right: 500px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    text-align: center;
+    width: 230px;
+}
+#six {
+    background-color: rgb(255, 136, 44);
+    padding: 3px;
+    margin-right: 500px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    text-align: center;
+    width: 230px;
+}
+#sev {
+    background-color: rgb(252, 82, 82);
+    padding: 3px;
+    margin-right: 500px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    text-align: center;
+    width: 230px;
+}
